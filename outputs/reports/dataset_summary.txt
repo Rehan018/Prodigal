@@ -1,0 +1,23 @@
+YELP REVIEW FULL - DATASET SUMMARY
+
+TRAIN DATASET
+-------------
+Rows: 650000
+Null text: 0
+Null label_raw: 0
+Null stars: 0
+Empty reviews: 0
+Duplicate reviews: 0
+Class distribution: {1: 130000, 2: 130000, 3: 130000, 4: 130000, 5: 130000}
+Length summary: {'avg_char_length': np.float64(732.33), 'avg_word_length': np.float64(134.1), 'min_word_length': 1, 'max_word_length': 1052}
+
+TEST DATASET
+------------
+Rows: 50000
+Null text: 0
+Null label_raw: 0
+Null stars: 0
+Empty reviews: 0
+Duplicate reviews: 0
+Class distribution: {1: 10000, 2: 10000, 3: 10000, 4: 10000, 5: 10000}
+Length summary: {'avg_char_length': np.float64(733.42), 'avg_word_length': np.float64(134.29), 'min_word_length': 1, 'max_word_length': 1009}
