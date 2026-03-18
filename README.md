@@ -12,3 +12,8 @@ This project contains Step 1 of the Yelp AI systems assignment:
 
 ```bash
 pip install -r requirements.txt
+```
+
+```bash
+jupyter notebook
+```
