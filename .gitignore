@@ -1,11 +1,11 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints
-data/processed/*.csv
-!data/processed/.gitkeep
 outputs/logs/*.log
 .env
 .DS_Store
 .venv/
 .qodo/
 token
+data/processed/yelp_train_full.csv
+data/processed/yelp_test_full.csv
